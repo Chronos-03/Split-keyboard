@@ -29,7 +29,7 @@
 | [Gateron Oil King](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/) | KEys | 5 | $2.48 | $12.40 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/) |
 | [PCb](https://jlcpcb.com/) | the main PCb | 1 | $30.00 | $30.00 | [JLPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$80.14** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$80.14** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$100.14** | — |
 
-$19.86 left of the tier's funding.
+**$0.14 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.

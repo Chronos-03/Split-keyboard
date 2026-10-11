@@ -67,20 +67,20 @@ The case uses a custom 3D-printed top plate and bottom shell designed for standa
 | ESP32-S3-WROOM-1 Module | MCU | 2 | $4.37 | $8.74 | [Robu.in](https://robu.in/product/espressif-esp32-s3-wroom-1-n16r8-module/) |
 | Rotatory encoder | Volume and brightness control | 2 | $0.64 | $1.28 | [Robu.in](https://robu.in/product/360-degree-rotary-encoder-module/) |
 | NFC RFID Reader | For the device unlocking | 2 | $1.44 | $2.88 | [IndianHobbycenter](https://www.indianhobbycenter.com/products/rc522-mini-rfid-reader-writer-spi-s50-with-rfid-card-and-tag?variant=41430763667499) |
-| 2000mAh 3.7V Micro LiPo Battery | Power Source | 2 | $3.43 | $6.86 | [Robu.in](https://robu.in/product/nova-604060-2000mah-3-7v-micro-lipo-battery-pack/) |
+| 10000mAh 3.7V Micro LiPo Battery | Power Source | 2 | $12.29 | $24.58 | [Robu.in](https://robu.in/?post_type=product&s=10000mAh+3.7V+Lipo) |
 | TP4056 IC | Charging IC | 2 | $2.00 | $4.00 | [Ktron](https://www.ktron.in/product/tp4056-ic/#&gid=1&pid=1) |
 | ME6211C33M5G | Regulators | 2 | $0.08 | $0.16 | [Robu.in](https://robu.in/product/me6211c33m5g-n-microne-500ma-fixed-3-3v-positive-electrode-6v-sot-23-5-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/) |
 | AO3400A-HUASHUO | LED Mosfet | 2 | $0.06 | $0.12 | [Robu.in](https://robu.in/?post_type=product&s=AO3400A) |
 | SMD1206B050TF | Fuse | 1 | $0.05 | $0.05 | [Robu.in](https://robu.in/product/1206l050yr-littelfuse-1206l050yr-resettable-fuse-pptc-1206-3216-metric-polyswitch-1206l-series-6-vdc-500-ma-1-a-0-1-s/) |
 | TYPE-C | Charging and interconnection | 4 | $0.27 | $1.08 | [Robu.in](https://robu.in/?post_type=product&s=Type+C+Connector) |
 | 1N4148WS | Diodes | 50 | $0.12 | $6.00 | [Robu.in](https://robu.in/?post_type=product&s=1N4148WS) |
-| LED | Backlight | 50 | $0.01 | $0.50 | [Robu.in](https://robu.in/?post_type=product&s=0805+White+LED) |
+| LED | Backlight | 50 | $0.01 | $0.50 | [Ktron.in](https://www.ktron.in/?post_type=product&s=0805+White+LED) |
 | Resistor | Led Protection And other things | 60 | $0.01 | $0.60 | [Ktron.in](https://www.ktron.in/?post_type=product&s=0805+Resistor) |
 | Capacitors | for the component electrical stability | 30 | $0.01 | $0.30 | [Ktron](https://www.ktron.in/product/resistor-30k-ohms-1-1-8w-smd-0805/) |
 | Gateron Oil King | Switches | 5 | $2.58 | $12.90 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/) |
 | PCB | Component Housing | 1 | $45.00 | $45.00 | [Zbotic](https://zbotic.in/pcb-manufacturing/) |
 | Case | housing of all electronics | 1 | $20.00 | $20.00 | [Printing legion](https://www.google.com/search?q=Printing+Legion+3D+printing) |
 | 1.8 TFT display | Display | 2 | $3.19 | $6.38 | [Robu.in](https://robu.in/product/smartelex-1-8-tft-display-128x160/) |
-| Slide Switch | Power Control | 2 | $0.01 | $0.02 | [Robu.in](https://robu.in/?post_type=product&s=Slide+Switch) |
+| Slide Switch | Power Control | 2 | $0.12 | $0.24 | [Ktron.in](https://www.ktron.in/?post_type=product&s=Slide+Switch) |
 | smdswitches | rebbot and flash | 1 | $0.21 | $0.21 | [MakerBAzar](https://makerbazar.in/products/micro-tactile-tact-keys-tasten-smd-push-side-button-schalter) |
-| **Grand Total** | | | | **$117.08**| |
+| **Grand Total** | | | | **$135.02**| |

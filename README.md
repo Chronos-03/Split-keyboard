@@ -58,7 +58,7 @@ The case uses a custom 3D-printed top plate and bottom shell designed for standa
 
 ## Firmware
 
-**Note: The firmware is currently in development and has not yet been approved or fully tested. We will update this repository with the finalized firmware files and flashing instructions once the physical hardware is fully assembled and ready.**
+**Note: The firmware is made by Ai and  currently in development and has not yet been approved or fully tested. We will update this repository with the finalized firmware files and flashing instructions once the physical hardware is fully assembled and ready.It's my promise i will hand coded firmware and the best firmare once the keybaord will be complete in real**
 
 ## Bill of Materials
 
